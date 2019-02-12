@@ -15,7 +15,8 @@ plugins: [
     ]
 ```
 
----this plugin can only used in product env---
+this plugin can only used in product env
+
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
